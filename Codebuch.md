@@ -19,8 +19,8 @@ codiert von 1 bis 10, jede ID entspricht einem Studenten
 
 **weight**  </p>
 Beziehungsstärke zwischen Personen und Events </p>
-3 = Organisator*in / wischtig für die Entstehung des Events,</p>
-1 = Teilnahme an Event
+3 = Organisator*in / wichtig für die Entstehung des Events,</p>
+1 = Teilnahme an Event/Mitglied der Gruppe
 
 **year** </p>
 Jahr, in dem das Event stattgefunden hat
