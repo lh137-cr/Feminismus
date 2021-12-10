@@ -1,18 +1,18 @@
-# Unser Datensatz #
+UNSER DATENSATZ
 Codebuch Stand 2021-12, aktualisiert 2021-12
 erstellt von Lavinia Hutt, Isabela Dias da Motta, Jonah Constantin Schua, Letizia Scalisi und Emelie Wenz
 
-## Inhalt
+INHALT
 - Edges.csv (Edgelist)
 - Nodes.csv (Nodelist)
 - Codebuch.md (Codierung der Datensätze)
 
-## Ursprung und Datenerhebung
+URSPRUNG UND DATENERHEBUNG
 Wir haben in Büchern und Zeitschriften, sowie im Internet relevante Personen und Events recherchiert
 Das Netzwerk ist ein *gerichtetes two-mode Akteurs- und Events-Netzwerk*. 
 
 
-# EDGE-Attribute
+EDGE-ATTRIBUTE
 **id**  
 (eindeutige Codierung des Knoten)   
 codiert von 1 bis 10, jede ID entspricht einem Studenten
@@ -25,7 +25,7 @@ Beziehungsstärke zwischen Personen und Events
 **year**
 Jahr, in dem das Event stattgefunden hat
 
-# NODE-Attribute
+NODE-ATTRIBUTE
 
 **id**  
 Identische ID wie aus der edgelist zur Identifikation der Knoten
@@ -48,4 +48,4 @@ Geschlecht bei Personen
 **age**
 Alter der Personen in ganzen Zahlen
 
-**
+
