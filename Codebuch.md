@@ -31,12 +31,12 @@ Jahr, in dem das Event stattgefunden hat
 Identische ID wie aus der edgelist zur Identifikation der Knoten
 
 **name** </p>
-Name der Person oder des 
+Name der Person oder des Events
 
 
 **type**    </p>
 Art des Knoten </p>
-1 = Akteur*in </p>
+1 = Akteur*in oder Gruppe</p>
 2 = Event </p>
 
 **sex** </p>
@@ -45,7 +45,7 @@ Geschlecht bei Personen </p>
 2 = männlich</p>
 3 = divers</p>
 
-**age** </p>
-Alter der Personen in ganzen Zahlen
+**year** </p>
+Geburtsjahr der Person oder Gründung der Gruppe
 
 
