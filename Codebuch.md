@@ -1,51 +1,51 @@
-UNSER DATENSATZ
+# UNSER DATENSATZ # 
 Codebuch Stand 2021-12, aktualisiert 2021-12
 erstellt von Lavinia Hutt, Isabela Dias da Motta, Jonah Constantin Schua, Letizia Scalisi und Emelie Wenz
 
-INHALT
+## INHALT ##
 - Edges.csv (Edgelist)
 - Nodes.csv (Nodelist)
 - Codebuch.md (Codierung der Datensätze)
 
-URSPRUNG UND DATENERHEBUNG
+## URSPRUNG UND DATENERHEBUNG ##
 Wir haben in Büchern und Zeitschriften, sowie im Internet relevante Personen und Events recherchiert
 Das Netzwerk ist ein *gerichtetes two-mode Akteurs- und Events-Netzwerk*. 
 
 
-EDGE-ATTRIBUTE
-**id**  
+# EDGE-ATTRIBUTE #
+**id**  </p>
 (eindeutige Codierung des Knoten)   
 codiert von 1 bis 10, jede ID entspricht einem Studenten
 
-**weight**  
-Beziehungsstärke zwischen Personen und Events
-3 = Organisator*in / wischtig für die Entstehung des Events,   
+**weight**  </p>
+Beziehungsstärke zwischen Personen und Events </p>
+3 = Organisator*in / wischtig für die Entstehung des Events,</p>
 1 = Teilnahme an Event
 
-**year**
+**year** </p>
 Jahr, in dem das Event stattgefunden hat
 
-NODE-ATTRIBUTE
+# NODE-ATTRIBUTE #
 
-**id**  
+**id**  </p>
 Identische ID wie aus der edgelist zur Identifikation der Knoten
 
-**name**
+**name** </p>
 Name der Person oder des 
 
 
-**type**    
-Art des Knoten 
-1 = Akteur*in 
-2 = Event 
+**type**    </p>
+Art des Knoten </p>
+1 = Akteur*in </p>
+2 = Event </p>
 
-**sex**
-Geschlecht bei Personen
-1 = weiblich
-2 = männlich
-3 = divers
+**sex** </p>
+Geschlecht bei Personen </p>
+1 = weiblich</p>
+2 = männlich</p>
+3 = divers</p>
 
-**age**
+**age** </p>
 Alter der Personen in ganzen Zahlen
 
 
