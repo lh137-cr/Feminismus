@@ -36,7 +36,7 @@ Name der Person oder des Events
 
 **type**    </p>
 Art des Knoten </p>
-1 = Akteur*in oder Gruppe</p>
+1 = Akteur/in oder Gruppe</p>
 2 = Event </p>
 
 **sex** </p>
@@ -48,4 +48,10 @@ Geschlecht bei Personen </p>
 **year** </p>
 Geburtsjahr der Person oder Gründung der Gruppe
 
+**origin** 
+1 = Land
+2 = Stadt
 
+**education**
+1 = Student/in
+2 = kein/e Student/in
