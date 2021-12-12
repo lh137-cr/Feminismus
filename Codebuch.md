@@ -23,7 +23,7 @@ Beziehungsstärke zwischen Personen und Events </p>
 1 = Teilnahme an Event/Mitglied der Gruppe
 
 **year** </p>
-Jahr, in dem das Event stattgefunden hat
+Jahr, in dem die Beziehung stattfand/anfing
 
 # NODE-ATTRIBUTE #
 
@@ -46,7 +46,7 @@ Geschlecht bei Personen </p>
 3 = divers</p>
 
 **year** </p>
-Geburtsjahr der Person oder Gründung der Gruppe
+Geburtsjahr der Person/Zeitpunkt des Events
 
 **origin** </p>
 1 = Land </p>
