@@ -48,10 +48,10 @@ Geschlecht bei Personen </p>
 **year** </p>
 Geburtsjahr der Person oder Gründung der Gruppe
 
-**origin** 
-1 = Land
+**origin** </p>
+1 = Land </p>
 2 = Stadt
 
-**education**
-1 = Student/in
+**education** </p>
+1 = Student/in </p>
 2 = kein/e Student/in
