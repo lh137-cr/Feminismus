@@ -1,6 +1,6 @@
 # UNSER DATENSATZ # 
 Codebuch Stand 2021-12, aktualisiert 2021-12
-erstellt von Lavinia Hutt, Isabela Dias da Motta, Jonah Constantin Schua, Letizia Scalisi und Emelie Wenz
+erstellt von Lavinia Hutt, Isabela Dias da Motta, Jonah Constantin Schua, Letizia Scalisi, Emelie Wenz und Julia Habenicht
 
 ## INHALT ##
 - Edges.csv (Edgelist)
