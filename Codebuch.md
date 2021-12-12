@@ -15,7 +15,7 @@ Das Netzwerk ist ein *gerichtetes two-mode Akteurs- und Events-Netzwerk*.
 # EDGE-ATTRIBUTE #
 **id**  </p>
 (eindeutige Codierung des Knoten)   
-codiert von 1 bis 10, jede ID entspricht einem Studenten
+codiert von 1 bis 10, jede ID entspricht einem/r Akteru/in bzw einem Event
 
 **weight**  </p>
 Beziehungsstärke zwischen Personen und Events </p>
@@ -31,8 +31,10 @@ Jahr, in dem die Beziehung stattfand/anfing
 Identische ID wie aus der edgelist zur Identifikation der Knoten
 
 **name** </p>
-Name der Person oder des Events
+Kürzel des Namens, um die Visualisierung vorerst zu vereinfachen
 
+**name_first** </p>
+tatsächlicher Name der Person oder des Events
 
 **type**    </p>
 Art des Knoten </p>
