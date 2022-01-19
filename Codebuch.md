@@ -8,19 +8,32 @@ erstellt von Lavinia Hutt, Isabela Dias da Motta, Jonah Constantin Schua, Letizi
 - Codebuch.md (Codierung der Datensätze)
 
 ## URSPRUNG UND DATENERHEBUNG ##
-Wir haben in Büchern und Zeitschriften, sowie im Internet relevante Personen und Events recherchiert
-Das Netzwerk ist ein *gerichtetes two-mode Akteurs- und Events-Netzwerk*. 
+Wir haben in Büchern und Zeitschriften, sowie im Internet relevante Personen und Events recherchiert, unter anderem:</p>
+Berlin wird feministisch - Cristina Perincioli, Querverlag GmbH 2015 (Autorin war selbst Akteurin und interviewt andere Akteur/innen der Zeit</p>
+https://frauenmediaturm.de/neue-frauenbewegung/chronik-1975/ *zuletzt abgerufen 07. Dezember 2021* </p>
+https://www.digitales-deutsches-frauenarchiv.de/akteurinnen/brot-und-rosen#actor-content-about
+feminismus/feminismus *zuletzt abgerufen am 07.12.2021* </p>
+https://www.fes.de/politische-akademie/onlineakademie/geschichte/story-slider-feminismus/feminismus *zuletzt abgerufen am 04.12.2021* </p>
+https://frauenmediaturm.de/frauenbewegung-2/chronik-neue-frauenbewegung/ *zuletzt abgerufen am 10.12.2021* </p>
+https://dffb-archiv.de/editorial/feminismen-dffb-1966-85 *zuletztabgerufen am 04.12.2021* </p>
+https://frauenmediaturm.de/frauenbewegung-2/pionierinnen/ *zuletzt abgerufen am 05.12.2021* </p>
+https://www.transcript-verlag.de/media/pdf/4a/78/95/oa9783839424087.pdf *am 07.12.2021* </p>
 
+Das Netzwerk ist ein *gerichtetes two-mode Akteurs- und Events-Netzwerk*. 
+Die Sample-Auswahl haben wir getroffen, da diese Akteur/innen unserer Meinung nach die Relevantesten von der Berliner Frauenbewegung im Zeitraum 1968-1975 waren und an den größten Meilensteinen mitgewirkt haben. 
 
 # EDGE-ATTRIBUTE #
 **id**  </p>
 (eindeutige Codierung des Knoten)   
-codiert von 1 bis 10, jede ID entspricht einem/r Akteru/in bzw einem Event
+codiert von 1 bis 10, jede ID entspricht einem/r Akteur/in bzw einem Event
 
 **weight**  </p>
 Beziehungsstärke zwischen Personen und Events </p>
-3 = Organisator*in / wichtig für die Entstehung des Events,</p>
-1 = Teilnahme an Event/Mitglied der Gruppe
+3 = Organisator/in / wichtig für die Entstehung des Events,</p>
+1 = Teilnahme an Event/Mitglied der Gruppe </p>
+Beziehungsstärke zwischen Personen </p>
+3 = gemeinsame Organisation von Events </p>
+1 = in derselben Gruppe/Wohngemeinschaft
 
 **year** </p>
 Jahr, in dem die Beziehung stattfand/anfing
