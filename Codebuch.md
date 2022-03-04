@@ -27,16 +27,18 @@ Die Sample-Auswahl haben wir getroffen, da diese Akteur/innen unserer Meinung na
 (eindeutige Codierung des Knoten)   
 codiert von 1 bis 10, jede ID entspricht einem/r Akteur/in bzw einem Event
 
-**weight**  </p>
-Beziehungsstärke zwischen Personen und Events </p>
-3 = Organisator/in / wichtig für die Entstehung des Events,</p>
-1 = Teilnahme an Event/Mitglied der Gruppe </p>
-Beziehungsstärke zwischen Personen </p>
-3 = gemeinsame Organisation von Events </p>
-1 = in derselben Gruppe/Wohngemeinschaft
+**relationship**  </p>
+Beziehungsart zwischen Personen und Events </p>
+1 = Organisator/in des Events,</p>
+2 = Teilnahme an Event </p>
+3 = Mitglied der Gruppe </p>
+4 = Mitglied der Wohngemeinschaft </p>
+5 = gemeinsame Zeit in einer Wohngemeinschaft </p>
+6 = gemeinsame Mitgliedschaft einer Gruppe </p>
+7 = gemeinsame Organisation eines Events </p>
 
 **year** </p>
-Jahr, in dem die Beziehung stattfand/anfing
+Jahr, in dem die Beziehung anfing
 
 # NODE-ATTRIBUTE #
 
