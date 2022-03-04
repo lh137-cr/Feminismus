@@ -36,6 +36,7 @@ Beziehungsart zwischen Personen und Events </p>
 5 = gemeinsame Zeit in einer Wohngemeinschaft </p>
 6 = gemeinsame Mitgliedschaft einer Gruppe </p>
 7 = gemeinsame Organisation eines Events </p>
+8 = Gründer/in der Gruppe
 
 **year** </p>
 Jahr, in dem die Beziehung anfing
