@@ -37,7 +37,8 @@ Beziehungsart zwischen Personen und Events </p>
 6 = gemeinsame Mitgliedschaft einer Gruppe </p>
 7 = gemeinsame Organisation eines Events </p>
 8 = Gründer/in der Gruppe </p>
-9 = Leiter/in der Gruppe
+9 = Leiter/in der Gruppe </p>
+10 = romantische Beziehung
 
 **year** </p>
 Jahr, in dem die Beziehung anfing
