@@ -19,7 +19,7 @@ https://dffb-archiv.de/editorial/feminismen-dffb-1966-85 *zuletztabgerufen am 04
 https://frauenmediaturm.de/frauenbewegung-2/pionierinnen/ *zuletzt abgerufen am 05.12.2021* </p>
 https://www.transcript-verlag.de/media/pdf/4a/78/95/oa9783839424087.pdf *am 07.12.2021* </p>
 
-Das Netzwerk ist ein *gerichtetes two-mode Akteurs- und Events-Netzwerk*. 
+Das Netzwerk ist ein *ungerichtetes two-mode Akteurs- und Events-Netzwerk*. 
 Die Sample-Auswahl haben wir getroffen, da diese Akteur/innen unserer Meinung nach die Relevantesten von der Berliner Frauenbewegung im Zeitraum 1968-1975 waren und an den größten Meilensteinen mitgewirkt haben. 
 
 # EDGE-ATTRIBUTE #
