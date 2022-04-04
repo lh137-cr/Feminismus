@@ -45,7 +45,7 @@ Jahr, in dem die Beziehung anfing
 
 **year** </p>
 Jahreszeiträume: </p>
-1 = 1968 bis 1970 </p>
+1 = vor 1968 bis 1970 </p>
 2 = 1971 bis 1972 </p>
 3 = 1973 bis 1975 </p>
 4 = 1976 oder später </p>
