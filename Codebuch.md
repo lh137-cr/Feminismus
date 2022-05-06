@@ -72,7 +72,7 @@ Geschlecht bei Personen </p>
 2 = männlich</p>
 3 = divers</p>
 
-**year** </p>
+**year_birth** </p>
 Geburtsjahr der Person/Zeitpunkt des Events
 
 **origin** </p>
