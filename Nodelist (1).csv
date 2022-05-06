@@ -1,4 +1,4 @@
-id,name_short,name,type,sex,year,origin,education
+id,name_short,name,type,sex,year_birth,origin,education
 mk,Monika,Monika Kuehn,1,1,NA,NA,1
 hs,Helke,Helke Sander,1,1,1937,1,1
 cp,Cristina,Cristina Perincioli,1,1,1946,2,1
